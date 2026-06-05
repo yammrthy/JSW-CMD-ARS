@@ -1,0 +1,337 @@
+======================================================================
+   JSW FLEET MANAGEMENT SYSTEM — COMPLETE DATA SUMMARY
+   Financial Year: April 2025 — March 2026
+======================================================================
+
+▌ OVERALL STATS
+  Total Vehicles Registered : 425
+  Total Maintenance Records : 2807
+  Active Months with Data   : 9 (Jun, Jul, Aug have no real data)
+  Completed Jobs            : 2650 (94.4%)
+  In-Progress Jobs          : 50 (1.8%)
+  Blank/Unknown Status      : 107 (3.8%)
+
+▌ OVERALL MAINTENANCE TYPE BREAKDOWN
+  PM                    :  937  (33.4%)
+  GENERAL CHECKUP       :  816  (29.1%)
+  BREAKDOWN             :  595  (21.2%)
+  OTHERS                :  443  (15.8%)
+  REFURBISHMENT         :   16  (0.6%)
+
+▌ TOP 10 EQUIPMENT TYPES (by job count)
+  SKID STEER               :  532
+  DUST TANKER              :  307
+  UTILITY VEHICLE          :  262
+  BUS                      :  233
+  TIPPER                   :  159
+  FORK LIFT 3T             :  134
+  PICK & CARRY             :  117
+  IVCS MACHINE             :   93
+  MOBILE CRANES            :   81
+  TRAILER                  :   57
+
+▌ TOP 10 DEPARTMENTS (by job count)
+  CIVIL                    :  323
+  CMD                      :  274
+  TRANSPORT                :  239
+  RMHS                     :  198
+  SP-1                     :  127
+  LOGISTIC                 :  101
+  MICROPELLET              :   96
+  BP-2                     :   88
+  RMHS-5MT                 :   83
+  FIRE & SAFETY            :   74
+
+▌ TOP 10 ARS INCHARGE (by job count)
+  CHARAN                   :  422
+  SANJAY                   :  346
+  DHANVARSH                :  341
+  VEERESH                  :  174
+  HARISHA                  :  128
+  CHETAN                   :  127
+  Mr. Harisha              :  110
+  VAMSI                    :  103
+  Mr. Hossagerappa         :   93
+  SATYA                    :   85
+
+======================================================================
+   MONTH-BY-MONTH BREAKDOWN
+======================================================================
+
+── APRIL 2025
+   Total Records : 439
+   Completed     : 437  |  In-Progress: 0  |  Blank: 2
+   Maintenance Types:
+     BREAKDOWN             : 240
+     PM                    : 184
+     REFURBISHMENT         : 15
+   Top Equipment:
+     SKID STEER               : 81
+     BUS                      : 47
+     UTILITY VEHICLE          : 44
+     DUST TANKER              : 44
+     TIPPER                   : 43
+   Top Departments:
+     CIVIL                    : 51
+     TRANSPORT                : 44
+     CMD                      : 43
+     RMHS                     : 33
+     SP-1                     : 27
+   Top ARS Incharge:
+     CHARAN                   : 104
+     DHANVARSH                : 86
+     SANJAY                   : 59
+     RAJESH LAL               : 41
+     VAMSI                    : 32
+
+── MAY 2025
+   Total Records : 440
+   Completed     : 438  |  In-Progress: 2  |  Blank: 0
+   Maintenance Types:
+     PM                    : 281
+     BREAKDOWN             : 120
+     OTHERS                : 38
+     REFURBISHMENT         : 1
+   Top Equipment:
+     SKID STEER               : 62
+     FORK LIFT 3T             : 55
+     UTILITY VEHICLE          : 48
+     DUST TANKER              : 41
+     BUS                      : 31
+   Top Departments:
+     CIVIL                    : 43
+     CMD                      : 41
+     LOGISTIC                 : 32
+     TRANSPORT                : 31
+     SMS-1                    : 25
+   Top ARS Incharge:
+     DHANVARSH                : 61
+     VEERESH                  : 61
+     CHARAN                   : 58
+     0                        : 43
+     SANJAY                   : 31
+
+── JUNE ── No data available
+
+── JULY ── No data available
+
+── AUGUST ── No data available
+
+── SEPTEMBER 2025
+   Total Records : 201
+   Completed     : 201  |  In-Progress: 0  |  Blank: 0
+   Maintenance Types:
+     GENERAL CHECKUP       : 199
+     BREAKDOWN             : 2
+   Top Equipment:
+     SKID STEER               : 55
+     DUST TANKER              : 31
+     UTILITY VEHICLE          : 23
+     BUS                      : 22
+     PICK & CARRY             : 8
+   Top Departments:
+     CMD                      : 23
+     CIVIL                    : 22
+     TRANSPORT                : 19
+     PP-1                     : 12
+     FIRE & SAFETY            : 10
+   Top ARS Incharge:
+     Mr. Harisha              : 63
+     Mr. Hogaserappa          : 45
+     Mr. Chaiten              : 39
+     Mr. Naveen               : 25
+     Mr. Gouda                : 10
+
+── OCTOBER 2025
+   Total Records : 152
+   Completed     : 152  |  In-Progress: 0  |  Blank: 0
+   Maintenance Types:
+     GENERAL CHECKUP       : 152
+   Top Equipment:
+     SKID STEER               : 43
+     DUST TANKER              : 24
+     UTILITY VEHICLE          : 19
+     BUS                      : 10
+     PICK & CARRY             : 9
+   Top Departments:
+     CIVIL                    : 19
+     CMD                      : 14
+     BP-2                     : 8
+     RMHS-5MT                 : 8
+     BF-3                     : 7
+   Top ARS Incharge:
+     Mr. Harisha              : 47
+     Mr. Hogaserappa          : 29
+     Mr. Naveen               : 20
+     Mr. Chetan               : 14
+     Mr. Chaiten              : 13
+
+── NOVEMBER 2025
+   Total Records : 195
+   Completed     : 193  |  In-Progress: 0  |  Blank: 2
+   Maintenance Types:
+     GENERAL CHECKUP       : 195
+   Top Equipment:
+     SKID STEER               : 73
+     DUST TANKER              : 24
+     UTILITY VEHICLE          : 21
+     BUS                      : 13
+     PICK & CARRY             : 8
+   Top Departments:
+     CIVIL                    : 26
+     BP-2                     : 15
+     CMD                      : 14
+     TRANSPORT                : 14
+     RMHS                     : 12
+   Top ARS Incharge:
+     HARISHA                  : 59
+     Mr. Hossagerappa         : 32
+     Mr.Rajesh                : 28
+     CHETAN                   : 26
+     Mr. Harish               : 23
+
+── DECEMBER 2025
+   Total Records : 174
+   Completed     : 158  |  In-Progress: 16  |  Blank: 0
+   Maintenance Types:
+     GENERAL CHECKUP       : 174
+   Top Equipment:
+     SKID STEER               : 6
+     DUST TANKER              : 2
+     GARBAGE COMPACTOR        : 1
+     UTILITY VEHICLE          : 1
+   Top Departments:
+     CMD                      : 20
+     RMHS                     : 20
+     CIVIL                    : 16
+     SP-1                     : 13
+     TRANSPORT                : 12
+   Top ARS Incharge:
+     HARISHA                  : 60
+     Mr. Hossagerappa         : 42
+     CHETAN                   : 38
+     Ramanjini                : 6
+     Vamsi                    : 6
+
+── JANUARY 2026
+   Total Records : 105
+   Completed     : 3  |  In-Progress: 0  |  Blank: 102
+   Maintenance Types:
+     GENERAL CHECKUP       : 96
+     BREAKDOWN             : 8
+     PM                    : 1
+   Top Equipment:
+     SKID STEER               : 22
+     UTILITY VEHICLE          : 9
+     DUST TANKER              : 9
+     MOBILE CRANES            : 6
+   Top Departments:
+     CMD                      : 18
+     RMHS                     : 13
+     CIVIL                    : 10
+     TRANSPORT                : 8
+     RMHS-5MT                 : 5
+   Top ARS Incharge:
+     CHETAN                   : 31
+     CHARAN                   : 23
+     Mr. Hossagerappa         : 19
+     HARISHA                  : 9
+     Mr.Rajesh                : 5
+
+── FEBRUARY 2026
+   Total Records : 661
+   Completed     : 630  |  In-Progress: 31  |  Blank: 0
+   Maintenance Types:
+     PM                    : 284
+     OTHERS                : 218
+     BREAKDOWN             : 159
+   Top Equipment:
+     SKID STEER               : 116
+     DUST TANKER              : 85
+     BUS                      : 67
+     UTILITY VEHICLE          : 50
+     TIPPER                   : 49
+   Top Departments:
+     CIVIL                    : 84
+     TRANSPORT                : 66
+     RMHS                     : 56
+     CMD                      : 53
+     LOGISTIC                 : 35
+   Top ARS Incharge:
+     SANJAY                   : 169
+     CHARAN                   : 147
+     DHANVARSH                : 108
+     VEERESH                  : 47
+     VAMSI                    : 38
+
+── MARCH 2026
+   Total Records : 440
+   Completed     : 438  |  In-Progress: 1  |  Blank: 1
+   Maintenance Types:
+     OTHERS                : 187
+     PM                    : 187
+     BREAKDOWN             : 66
+   Top Equipment:
+     SKID STEER               : 74
+     DUST TANKER              : 47
+     UTILITY VEHICLE          : 47
+     BUS                      : 38
+     TIPPER                   : 35
+   Top Departments:
+     CIVIL                    : 52
+     CMD                      : 48
+     TRANSPORT                : 38
+     RMHS                     : 35
+     LOGISTIC                 : 23
+   Top ARS Incharge:
+     CHARAN                   : 90
+     SANJAY                   : 87
+     DHANVARSH                : 86
+     VEERESH                  : 53
+     SATYA                    : 22
+
+======================================================================
+   VEHICLE FLEET SUMMARY
+======================================================================
+
+  Equipment Type                Count
+  ------------------------------------
+  FORK LIFT 3T                     54
+  SKID STEER                       45
+  UTILITY VEHICLE                  44
+  PICK & CARRY                     23
+  DUST TANKER                      23
+  BUS                              23
+  TIPPER                           21
+  PAYLOADER                        18
+  TRAILER                          18
+  TRACTOR                          16
+  FORK LIFT 5T                     13
+  IVCS MACHINE                     11
+  MOBILE CRANES                    11
+  FIRE TENDER                      10
+  DOZER                             9
+  LIFTING PLATFORM                  8
+  BACK HOE LOADER                   8
+  SEPTIC TANKER                     8
+  SWEEPING MACHINE                  7
+  FORK LIFT 6T                      7
+  WATER TANKER                      6
+  GARBAGE COMPACTOR                 6
+  FORK LIFT 40T                     5
+  FUEL BOWZER                       4
+  PALFINGER                         4
+  MSU                               4
+  FORK LIFT 32T                     4
+  AMBULANCE                         3
+  SLURRY TANKER                     2
+  SOIL COMPACTOR                    2
+  EXCAVATOR                         2
+  FORK LIFT 10T                     1
+  DEMO                              1
+  ------------------------------------
+  TOTAL                           425
+
+======================================================================
+   END OF SUMMARY
+======================================================================
